@@ -61,13 +61,11 @@ Perfil [Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K150
 />
 
 ### Estatísticas
-<img
-    alt="GitHub Stats"
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=birdmelo&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
-/>
-<img
-    alt="GitHub Stats"
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdmelo&theme=dracula&locale=pt-br"
-/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=birdmelo&theme=dracula" height="170" alt="Linguagens por Repositório"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=birdmelo&theme=dracula" height="170" alt="Linguagens por Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birdmelo&theme=dracula&locale=pt-br" height="170" alt="Minha Ofensiva no GitHub"/>
+</p>
